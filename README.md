@@ -1,6 +1,8 @@
 # Dmath
 
-## 2.1 Mathematical Expressions
+## Homework 2 - 202255586 Lee Yeonji
+
+### 2.1 Mathematical Expressions
 
 | # | text | formula |
 |---|------|---------|
@@ -13,7 +15,7 @@
 | 7 | Euler's Identity | $e^{i\pi} + 1 = 0$ |
 | 8 | SUM of n from 1 to 100 Equals 5050 | $\sum_{n=1}^{100} n = 5050$ |
 
-## 2.2 Translate Sentences into Logic Formulas
+### 2.2 Translate Sentences into Logic Formulas
 
 Using the propositions:
 - $p$ = "I study"
