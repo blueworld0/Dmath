@@ -1,4 +1,4 @@
-# Dmath
+# My Discrete Math Repository
 
 ## Homework 2 - 202255586 Lee Yeonji
 
