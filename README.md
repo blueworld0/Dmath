@@ -22,12 +22,18 @@ Using the propositions:
 - $q$ = "I will pass the course"
 - $r$ = "The professor accepts bribes"
 
-1. $\neg p \rightarrow (q \rightarrow r)$
+Translate the following into statements of propositional logic:
+1. If I do not study, then I will only pass the course if the professor accepts bribes.
+$\neg p \rightarrow (q \rightarrow r)$
 
-2. $r \rightarrow \neg p$
+2. If the professor accepts bribes, then I do not study.
+$r \rightarrow \neg p$
 
-3. $\neg r \wedge p \wedge q$
+3. The professor does not accept bribes, but I study and will pass the course.
+$\neg r \wedge p \wedge q$
 
-4. $p \rightarrow (r \wedge q)$
+4. If I study, the professor will accept bribes and I will pass the course.
+$p \rightarrow (r \wedge q)$
 
-5. $\neg q \wedge r$
+5. I will not pass the course but the professor accepts bribes.
+$\neg q \wedge r$
